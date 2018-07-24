@@ -2,19 +2,19 @@
 
 **New Features**
 
-- _Simple message describing the new feature, and a link to the pull request._
+-
 
 **Improvements**
 
-- _Simple message describing the improvement, and a link to the pull request._
+-
 
 **Fixes**
 
-- _Simple message describing the fix, and a link to the pull request._
+-
 
 -----
 
-## 0.2.7 (2018-07-23)
+## 0.2.7 (2018-07-25)
 
 **New Features**
 
